@@ -42,14 +42,6 @@
 
 ---
 
-### 🖼️ Aesthetic
-<p align="center">
-  <img src="https://64.media.tumblr.com/8b4d1a2a8fbd5f72c04af3a376bb5e36/tumblr_njbdybFV7u1t0hwebo1_500.gifv" width="300" alt="Steampunk machine">
-  <img src="https://media.tenor.com/tIibg8tS4iUAAAAC/steampunk-gears.gif" width="300" alt="Gears turning">
-</p>
-
----
-
 ### 📜 Future Work
 - Constructing smarter ML models  
 - Engineering elegant backend solutions  
