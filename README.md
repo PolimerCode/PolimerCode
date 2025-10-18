@@ -1,5 +1,56 @@
-<h1 align="center">Hi 👋, I'm PoliSours</h1>
-<h3 align="center">CM and backend developer</h3>
+<!-- Header -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7d/7b/ef/7d7bef1b70f9c12dc2e1f3d0d2e2d2e3.gif" width="600" alt="Steampunk header">
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center">⚙️ PoliSours ⚙️</h1>
+<p align="center">
+  <em>Backend Engineer · ML Tinkerer · Fun Things Enjoyer</em>
+</p>
+
+---
+
+### 🧠 Areas of Expertise
+- 🐍 Crafting structured backend sorcery with **Python**  
+- ⚙️ Bending **C++** into submission (politely, of course)  
+- 🧮 Teaching machines to reason, not just guess
+
+---
+
+### 🔩 Notable Projects
+| Project | Description |
+|---------|-------------|
+| **[Rendar](https://github.com/PolimerCode/Rendar)** | A renderer for videos built on mathematical foundations. Like a mechanical projector, but with more code and fewer explosions. |
+| **[ZZZapret](https://github.com/PolimerCode/ZZZapret)** | A fork of bol-van's “zapret” with adjustments and configs for the holy **DOM.RU** provider. Because reality sometimes needs custom firmware. |
+
+---
+
+### 🛠️ Tools & Skills
+<p>
+  <img src="https://img.shields.io/badge/Python-8B4513?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-654321?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/ML-gear%20powered-DAA520?style=for-the-badge" alt="ML"/>
+  <img src="https://img.shields.io/badge/Backend-bronze?style=for-the-badge" alt="Backend"/>
+</p>
+
+---
+
+### 🕰️ A Few Principles
+- Every system can be improved, preferably with gears and good design.  
+- Elegance isn’t optional, it’s a weapon.  
+- If it works but looks boring, it’s not done yet.
+
+---
+
+### 🖼️ Aesthetic
+<p align="center">
+  <img src="https://64.media.tumblr.com/8b4d1a2a8fbd5f72c04af3a376bb5e36/tumblr_njbdybFV7u1t0hwebo1_500.gifv" width="300" alt="Steampunk machine">
+  <img src="https://media.tenor.com/tIibg8tS4iUAAAAC/steampunk-gears.gif" width="300" alt="Gears turning">
+</p>
+
+---
+
+### 📜 Future Work
+- Constructing smarter ML models  
+- Engineering elegant backend solutions  
+- Adding more unnecessary but beautiful things to my code
